@@ -1,0 +1,318 @@
+gene	samples	FPKM	title	tissue	metastasis
+TSPAN6	CA.102548	0.93	tumor rep1	breast tumor	yes
+TNMD	CA.102548	0	tumor rep1	breast tumor	yes
+DPM1	CA.102548	0	tumor rep1	breast tumor	yes
+SCYL3	CA.102548	5.78	tumor rep1	breast tumor	yes
+C1orf112	CA.102548	2.83	tumor rep1	breast tumor	yes
+FGR	CA.102548	4.8	tumor rep1	breast tumor	yes
+CFH	CA.102548	1.37	tumor rep1	breast tumor	yes
+FUCA2	CA.102548	21.92	tumor rep1	breast tumor	yes
+GCLC	CA.102548	34.16	tumor rep1	breast tumor	yes
+NFYA	CA.102548	0.7	tumor rep1	breast tumor	yes
+STPG1	CA.102548	11.84	tumor rep1	breast tumor	yes
+NIPAL3	CA.102548	9.46	tumor rep1	breast tumor	yes
+LAS1L	CA.102548	3.75	tumor rep1	breast tumor	yes
+ENPP4	CA.102548	0.03	tumor rep1	breast tumor	yes
+SEMA3F	CA.102548	8.53	tumor rep1	breast tumor	yes
+CFTR	CA.102548	14.1	tumor rep1	breast tumor	yes
+ANKIB1	CA.102548	2	tumor rep1	breast tumor	yes
+CYP51A1	CA.102548	69.01	tumor rep1	breast tumor	yes
+KRIT1	CA.102548	64.26	tumor rep1	breast tumor	yes
+RAD52	CA.102548	2.83	tumor rep1	breast tumor	yes
+BAD	CA.102548	25.69	tumor rep1	breast tumor	yes
+LAP3	CA.102548	10	tumor rep1	breast tumor	yes
+CD99	CA.102548	97.07	tumor rep1	breast tumor	yes
+HS3ST1	CA.102548	1.87	tumor rep1	breast tumor	yes
+AOC1	CA.102548	1.18	tumor rep1	breast tumor	yes
+WNT16	CA.102548	0	tumor rep1	breast tumor	yes
+HECW1	CA.102548	9	tumor rep1	breast tumor	yes
+MAD1L1	CA.102548	20.65	tumor rep1	breast tumor	yes
+LASP1	CA.102548	89.55	tumor rep1	breast tumor	yes
+SNX11	CA.102548	143.06	tumor rep1	breast tumor	yes
+TMEM176A	CA.102548	18.98	tumor rep1	breast tumor	yes
+M6PR	CA.102548	33.82	tumor rep1	breast tumor	yes
+KLHL13	CA.102548	0.22	tumor rep1	breast tumor	yes
+CYP26B1	CA.102548	2.65	tumor rep1	breast tumor	yes
+ICA1	CA.102548	30.24	tumor rep1	breast tumor	yes
+DBNDD1	CA.102548	7.7	tumor rep1	breast tumor	yes
+ALS2	CA.102548	3.36	tumor rep1	breast tumor	yes
+CASP10	CA.102548	83.88	tumor rep1	breast tumor	yes
+CFLAR	CA.102548	349.46	tumor rep1	breast tumor	yes
+TFPI	CA.102548	12.95	tumor rep1	breast tumor	yes
+NDUFAF7	CA.102548	23.01	tumor rep1	breast tumor	yes
+RBM5	CA.102548	38.95	tumor rep1	breast tumor	yes
+MTMR7	CA.102548	0	tumor rep1	breast tumor	yes
+SLC7A2	CA.102548	1.19	tumor rep1	breast tumor	yes
+ARF5	CA.102548	28.7	tumor rep1	breast tumor	yes
+SARM1	CA.102548	3.62	tumor rep1	breast tumor	yes
+POLDIP2	CA.102548	7.81	tumor rep1	breast tumor	yes
+PLXND1	CA.102548	73.1	tumor rep1	breast tumor	yes
+AK2	CA.102548	13.46	tumor rep1	breast tumor	yes
+CD38	CA.102548	1.13	tumor rep1	breast tumor	yes
+FKBP4	CA.102548	49.33	tumor rep1	breast tumor	yes
+KDM1A	CA.102548	3.28	tumor rep1	breast tumor	yes
+RBM6	CA.102548	165.62	tumor rep1	breast tumor	yes
+CAMKK1	CA.102548	91.73	tumor rep1	breast tumor	yes
+RECQL	CA.102548	2.53	tumor rep1	breast tumor	yes
+CCDC132	CA.102548	7.86	tumor rep1	breast tumor	yes
+HSPB6	CA.102548	4.03	tumor rep1	breast tumor	yes
+ARHGAP33	CA.102548	10.03	tumor rep1	breast tumor	yes
+NDUFAB1	CA.102548	3.54	tumor rep1	breast tumor	yes
+PDK4	CA.102548	1.62	tumor rep1	breast tumor	yes
+SLC22A16	CA.102548	0	tumor rep1	breast tumor	yes
+ZMYND10	CA.102548	6.95	tumor rep1	breast tumor	yes
+ABCB5	CA.102548	17.14	tumor rep1	breast tumor	yes
+ARX	CA.102548	0.88	tumor rep1	breast tumor	yes
+SLC25A13	CA.102548	1.17	tumor rep1	breast tumor	yes
+ST7	CA.102548	1.48	tumor rep1	breast tumor	yes
+CDC27	CA.102548	5.81	tumor rep1	breast tumor	yes
+SLC4A1	CA.102548	0	tumor rep1	breast tumor	yes
+CALCR	CA.102548	0	tumor rep1	breast tumor	yes
+HCCS	CA.102548	0.56	tumor rep1	breast tumor	yes
+DVL2	CA.102548	25.68	tumor rep1	breast tumor	yes
+PRSS22	CA.102548	45.58	tumor rep1	breast tumor	yes
+UPF1	CA.102548	31.96	tumor rep1	breast tumor	yes
+SKAP2	CA.102548	10.32	tumor rep1	breast tumor	yes
+SLC25A5	CA.102548	8.79	tumor rep1	breast tumor	yes
+CCDC109B	CA.102548	8.7	tumor rep1	breast tumor	yes
+HOXA11	CA.102548	1.05	tumor rep1	breast tumor	yes
+POLR2J	CA.102548	11.04	tumor rep1	breast tumor	yes
+DHX33	CA.102548	3.04	tumor rep1	breast tumor	yes
+MEOX1	CA.102548	0.25	tumor rep1	breast tumor	yes
+THSD7A	CA.102548	0.31	tumor rep1	breast tumor	yes
+LIG3	CA.102548	10.31	tumor rep1	breast tumor	yes
+RPAP3	CA.102548	5.09	tumor rep1	breast tumor	yes
+ACSM3	CA.102548	1.4	tumor rep1	breast tumor	yes
+AC004381.6	CA.102548	3.89	tumor rep1	breast tumor	yes
+CIAPIN1	CA.102548	11.96	tumor rep1	breast tumor	yes
+FAM214B	CA.102548	7.04	tumor rep1	breast tumor	yes
+COPZ2	CA.102548	5.82	tumor rep1	breast tumor	yes
+PRKAR2B	CA.102548	3.65	tumor rep1	breast tumor	yes
+MSL3	CA.102548	2.46	tumor rep1	breast tumor	yes
+CREBBP	CA.102548	18.75	tumor rep1	breast tumor	yes
+BZRAP1	CA.102548	6.21	tumor rep1	breast tumor	yes
+MPO	CA.102548	0.04	tumor rep1	breast tumor	yes
+PON1	CA.102548	0.25	tumor rep1	breast tumor	yes
+GCFC2	CA.102548	14.99	tumor rep1	breast tumor	yes
+WDR54	CA.102548	10.23	tumor rep1	breast tumor	yes
+CROT	CA.102548	3.36	tumor rep1	breast tumor	yes
+ABCB4	CA.102548	0.11	tumor rep1	breast tumor	yes
+KMT2E	CA.102548	45.41	tumor rep1	breast tumor	yes
+RHBDD2	CA.102548	8.02	tumor rep1	breast tumor	yes
+SOX8	CA.102548	0.23	tumor rep1	breast tumor	yes
+IBTK	CA.102548	2.8	tumor rep1	breast tumor	yes
+ZNF195	CA.102548	27.31	tumor rep1	breast tumor	yes
+MYCBP2	CA.102548	54.04	tumor rep1	breast tumor	yes
+FBXL3	CA.102548	10.31	tumor rep1	breast tumor	yes
+ITGAL	CA.102548	74.18	tumor rep1	breast tumor	yes
+PDK2	CA.102548	8.03	tumor rep1	breast tumor	yes
+ITGA3	CA.102548	76.62	tumor rep1	breast tumor	yes
+ZFX	CA.102548	18.76	tumor rep1	breast tumor	yes
+LAMP2	CA.102548	17.53	tumor rep1	breast tumor	yes
+GGNBP2	CA.102548	9.49	tumor rep1	breast tumor	yes
+ITGA2B	CA.102548	1.56	tumor rep1	breast tumor	yes
+ASB4	CA.102548	0	tumor rep1	breast tumor	yes
+GDE1	CA.102548	12.38	tumor rep1	breast tumor	yes
+C19orf60	CA.102548	102.25	tumor rep1	breast tumor	yes
+CRLF1	CA.102548	5.83	tumor rep1	breast tumor	yes
+OSBPL7	CA.102548	9.94	tumor rep1	breast tumor	yes
+TMEM98	CA.102548	140.11	tumor rep1	breast tumor	yes
+YBX2	CA.102548	4.28	tumor rep1	breast tumor	yes
+KRT33A	CA.102548	0	tumor rep1	breast tumor	yes
+ABCC8	CA.102548	0.68	tumor rep1	breast tumor	yes
+CCL18	CA.102548	2.21	tumor rep1	breast tumor	yes
+CCL3	CA.102548	1.41	tumor rep1	breast tumor	yes
+SYNRG	CA.102548	26.76	tumor rep1	breast tumor	yes
+CACNG3	CA.102548	0	tumor rep1	breast tumor	yes
+TMEM132A	CA.102548	138	tumor rep1	breast tumor	yes
+AP2B1	CA.102548	3.97	tumor rep1	breast tumor	yes
+TAC1	CA.102548	0	tumor rep1	breast tumor	yes
+ZNF263	CA.102548	28.77	tumor rep1	breast tumor	yes
+CX3CL1	CA.102548	3.62	tumor rep1	breast tumor	yes
+SPATA20	CA.102548	32.67	tumor rep1	breast tumor	yes
+CACNA1G	CA.102548	0	tumor rep1	breast tumor	yes
+TNFRSF12A	CA.102548	48.03	tumor rep1	breast tumor	yes
+DLX6	CA.102548	0	tumor rep1	breast tumor	yes
+ERC2	CA.348981	1.83	tumor rep24	breast tumor	yes
+B3GALTL	CA.348981	1.4	tumor rep24	breast tumor	yes
+SPRY4	CA.348981	10.6	tumor rep24	breast tumor	yes
+ERAS	CA.348981	0.42	tumor rep24	breast tumor	yes
+TRPV2	CA.348981	23.65	tumor rep24	breast tumor	yes
+AMTN	CA.348981	0	tumor rep24	breast tumor	yes
+CXorf67	CA.348981	1.07	tumor rep24	breast tumor	yes
+RP11-723O4.6	CA.348981	1.59	tumor rep24	breast tumor	yes
+C2orf88	CA.348981	6.11	tumor rep24	breast tumor	yes
+OR2T27	CA.348981	0	tumor rep24	breast tumor	yes
+TMEM203	CA.348981	12.38	tumor rep24	breast tumor	yes
+SLC18A3	CA.348981	0.07	tumor rep24	breast tumor	yes
+KBTBD12	CA.348981	20.06	tumor rep24	breast tumor	yes
+THSD4	CA.348981	3.4	tumor rep24	breast tumor	yes
+DNAJB13	CA.348981	1.37	tumor rep24	breast tumor	yes
+GABRD	CA.348981	0.36	tumor rep24	breast tumor	yes
+AMY1C	CA.348981	0	tumor rep24	breast tumor	yes
+TCEA1	CA.348981	22.04	tumor rep24	breast tumor	yes
+NHEJ1	CA.348981	5.74	tumor rep24	breast tumor	yes
+FANCA	CA.348981	34.85	tumor rep24	breast tumor	yes
+SECISBP2	CA.348981	36.64	tumor rep24	breast tumor	yes
+OR52B6	CA.348981	1.81	tumor rep24	breast tumor	yes
+C9orf153	CA.348981	0	tumor rep24	breast tumor	yes
+SSX7	CA.348981	0	tumor rep24	breast tumor	yes
+ADH1A	CA.348981	0.81	tumor rep24	breast tumor	yes
+SEMA4D	CA.348981	116.01	tumor rep24	breast tumor	yes
+KRTAP10-8	CA.348981	0.64	tumor rep24	breast tumor	yes
+LIN28B	CA.348981	1.08	tumor rep24	breast tumor	yes
+FAM69C	CA.348981	0.13	tumor rep24	breast tumor	yes
+DNAH17	CA.348981	15.31	tumor rep24	breast tumor	yes
+MCRS1	CA.348981	28.62	tumor rep24	breast tumor	yes
+TMEM72	CA.348981	1.23	tumor rep24	breast tumor	yes
+SCXB	CA.348981	0	tumor rep24	breast tumor	yes
+FANCM	CA.348981	2.75	tumor rep24	breast tumor	yes
+ZNF70	CA.348981	6.78	tumor rep24	breast tumor	yes
+CARD9	CA.348981	17.67	tumor rep24	breast tumor	yes
+PEAR1	CA.348981	13.12	tumor rep24	breast tumor	yes
+ZFP69B	CA.348981	1.99	tumor rep24	breast tumor	yes
+TMEM202	CA.348981	0	tumor rep24	breast tumor	yes
+SOWAHD	CA.348981	0.77	tumor rep24	breast tumor	yes
+AP000867.1	CA.348981	7.79	tumor rep24	breast tumor	yes
+ZFP69	CA.348981	1.58	tumor rep24	breast tumor	yes
+HELT	CA.348981	0	tumor rep24	breast tumor	yes
+ZCCHC16	CA.348981	0	tumor rep24	breast tumor	yes
+TMEM220	CA.348981	3.06	tumor rep24	breast tumor	yes
+C2orf78	CA.348981	0	tumor rep24	breast tumor	yes
+HIST1H1C	CA.348981	79.63	tumor rep24	breast tumor	yes
+TMEM256-PLSCR3	CA.348981	35.12	tumor rep24	breast tumor	yes
+EIF4EBP1	CA.348981	17.61	tumor rep24	breast tumor	yes
+P2RX2	CA.348981	3.66	tumor rep24	breast tumor	yes
+ASCL4	CA.348981	0	tumor rep24	breast tumor	yes
+OR6C75	CA.348981	0	tumor rep24	breast tumor	yes
+CCDC157	CA.348981	16.86	tumor rep24	breast tumor	yes
+TTC24	CA.348981	11.08	tumor rep24	breast tumor	yes
+FAM122A	CA.348981	3.61	tumor rep24	breast tumor	yes
+PALM3	CA.348981	1.47	tumor rep24	breast tumor	yes
+GFRAL	CA.348981	1.42	tumor rep24	breast tumor	yes
+C1orf168	CA.348981	5.32	tumor rep24	breast tumor	yes
+SHISA7	CA.348981	0.07	tumor rep24	breast tumor	yes
+AC002472.13	CA.348981	1.74	tumor rep24	breast tumor	yes
+DMBT1	CA.348981	0.03	tumor rep24	breast tumor	yes
+CLEC17A	CA.348981	9.32	tumor rep24	breast tumor	yes
+OR51I2	CA.348981	0.51	tumor rep24	breast tumor	yes
+LCN10	CA.348981	4.38	tumor rep24	breast tumor	yes
+LDLRAD2	CA.348981	6.06	tumor rep24	breast tumor	yes
+C2orf66	CA.348981	0	tumor rep24	breast tumor	yes
+OVCH1	CA.348981	0.1	tumor rep24	breast tumor	yes
+ANKRD2	CAP.2008260	3.04	normal rep15	normal breast tissue	no
+E2F7	CAP.2008260	15.77	normal rep15	normal breast tissue	no
+ARHGAP42	CAP.2008260	7.8	normal rep15	normal breast tissue	no
+ISCA2	CAP.2008260	6.43	normal rep15	normal breast tissue	no
+OTOGL	CAP.2008260	4.34	normal rep15	normal breast tissue	no
+GYLTL1B	CAP.2008260	7.68	normal rep15	normal breast tissue	no
+PACSIN3	CAP.2008260	2.42	normal rep15	normal breast tissue	no
+TTC7B	CAP.2008260	26.05	normal rep15	normal breast tissue	no
+SLC39A13	CAP.2008260	9.39	normal rep15	normal breast tissue	no
+PSMC3	CAP.2008260	22.77	normal rep15	normal breast tissue	no
+RAPSN	CAP.2008260	4.39	normal rep15	normal breast tissue	no
+AGBL2	CAP.2008260	22.56	normal rep15	normal breast tissue	no
+TC2N	CAP.2008260	13.63	normal rep15	normal breast tissue	no
+CPSF2	CAP.2008260	12.64	normal rep15	normal breast tissue	no
+SMCO2	CAP.2008260	0	normal rep15	normal breast tissue	no
+MOAP1	CAP.2008260	4.4	normal rep15	normal breast tissue	no
+IFI27L1	CAP.2008260	5.58	normal rep15	normal breast tissue	no
+IFI27	CAP.2008260	20.8	normal rep15	normal breast tissue	no
+SERPINA12	CAP.2008260	1.6	normal rep15	normal breast tissue	no
+CLMN	CAP.2008260	18.49	normal rep15	normal breast tissue	no
+PDZRN4	CAP.2008260	10.55	normal rep15	normal breast tissue	no
+SLC6A5	CAP.2008260	2.46	normal rep15	normal breast tissue	no
+CCDC38	CAP.2008260	14.38	normal rep15	normal breast tissue	no
+NELL1	CAP.2008260	14.36	normal rep15	normal breast tissue	no
+PTER	CAP.2008260	3.83	normal rep15	normal breast tissue	no
+C1QL3	CAP.2008260	3.46	normal rep15	normal breast tissue	no
+CACNB2	CAP.2008260	15.82	normal rep15	normal breast tissue	no
+PTPLA	CAP.2008260	6.68	normal rep15	normal breast tissue	no
+ARL5B	CAP.2008260	2.23	normal rep15	normal breast tissue	no
+SMCO4	CAP.2008260	21.79	normal rep15	normal breast tissue	no
+KIAA1731	CAP.2008260	5.79	normal rep15	normal breast tissue	no
+KCNC2	CAP.2008260	28.83	normal rep15	normal breast tissue	no
+MAGEA9	CAP.2008260	5.54	normal rep15	normal breast tissue	no
+TAF1D	CAP.2008260	24.17	normal rep15	normal breast tissue	no
+ABTB2	CAP.2008260	5.13	normal rep15	normal breast tissue	no
+R3HCC1L	CAP.2008260	2.71	normal rep15	normal breast tissue	no
+AMOTL1	CAP.2008260	4.7	normal rep15	normal breast tissue	no
+HTRA1	CAP.2008260	11.87	normal rep15	normal breast tissue	no
+LIPC	CAP.2008260	7.89	normal rep15	normal breast tissue	no
+CEP57	CAP.2008260	12	normal rep15	normal breast tissue	no
+TCP11L2	CAP.2008260	12.33	normal rep15	normal breast tissue	no
+PASD1	CAP.2008260	5.2	normal rep15	normal breast tissue	no
+SPRED1	CAP.2008260	32.52	normal rep15	normal breast tissue	no
+TMCO5A	CAP.2008260	16.72	normal rep15	normal breast tissue	no
+GPR176	CAP.2008260	11.47	normal rep15	normal breast tissue	no
+JAM3	CAP.2008260	19.45	normal rep15	normal breast tissue	no
+IL25	CAP.2008260	3.23	normal rep15	normal breast tissue	no
+CMTM5	CAP.2008260	3.36	normal rep15	normal breast tissue	no
+GLB1L3	CAP.2008260	12.57	normal rep15	normal breast tissue	no
+ADAMTS15	CAP.2008260	2.37	normal rep15	normal breast tissue	no
+SVOP	CAP.2008260	15.02	normal rep15	normal breast tissue	no
+SPATA19	CAP.2008260	0	normal rep15	normal breast tissue	no
+GPT2	CAP.2008260	25.56	normal rep15	normal breast tissue	no
+AMN	CAP.2008260	0.93	normal rep15	normal breast tissue	no
+RAB8B	CAP.2008260	32.51	normal rep15	normal breast tissue	no
+IKBIP	CAP.2008260	10.71	normal rep15	normal breast tissue	no
+RPUSD2	CAP.2008260	8.48	normal rep15	normal breast tissue	no
+HIF1AN	CAP.2008260	13.33	normal rep15	normal breast tissue	no
+NDUFB8	CAP.2008260	797.955	normal rep15	normal breast tissue	no
+ZFYVE19	CAP.2008260	3.11	normal rep15	normal breast tissue	no
+PPP1R14D	CAP.2008260	0	normal rep15	normal breast tissue	no
+SPINT1	CAP.2008260	6.64	normal rep15	normal breast tissue	no
+FBN1	CAP.2008260	12.5	normal rep15	normal breast tissue	no
+AVPR1A	CAP.2008260	2.73	normal rep15	normal breast tissue	no
+C16orf78	CAP.2008260	4.51	normal rep15	normal breast tissue	no
+DEPDC4	CAP.2008260	20.15	normal rep15	normal breast tissue	no
+TPTE	CAP.2008260	6.29	normal rep15	normal breast tissue	no
+LRTM2	CAP.2008260	8.87	normal rep15	normal breast tissue	no
+OPN1MW2	CAP.2008260	0	normal rep15	normal breast tissue	no
+BRD7	CAP.2008260	28.97	normal rep15	normal breast tissue	no
+CKB	CAP.2008260	18.79	normal rep15	normal breast tissue	no
+TRMT61A	CAP.2008260	3.15	normal rep15	normal breast tissue	no
+BTRC	CAP.2008260	3.97	normal rep15	normal breast tissue	no
+POLL	CAP.2008260	11.84	normal rep15	normal breast tissue	no
+BAG5	CAP.2008260	4.57	normal rep15	normal breast tissue	no
+DPCD	CAP.2008260	4.75	normal rep15	normal breast tissue	no
+LARP6	CAP.2008260	25.83	normal rep15	normal breast tissue	no
+API5	CAP.2008260	19.65	normal rep15	normal breast tissue	no
+ASPG	CAP.2008260	0.67	normal rep15	normal breast tissue	no
+ZNF319	CAP.2008260	6.58	normal rep15	normal breast tissue	no
+HPS6	CAP.2008260	8.38	normal rep15	normal breast tissue	no
+SENP8	CAP.2008260	9.16	normal rep15	normal breast tissue	no
+NOLC1	CAP.2008260	6.5	normal rep15	normal breast tissue	no
+ALKBH3	CAP.2008260	9	normal rep15	normal breast tissue	no
+COPS2	CAP.2008260	18.5	normal rep15	normal breast tissue	no
+GABRB3	CAP.2008260	5.76	normal rep15	normal breast tissue	no
+SPIC	CAP.2008260	1.23	normal rep15	normal breast tissue	no
+TBATA	CAP.2008260	5.26	normal rep15	normal breast tissue	no
+SGPL1	CAP.2008260	4.58	normal rep15	normal breast tissue	no
+FRS2	CAP.2008260	3.17	normal rep15	normal breast tissue	no
+CCT2	CAP.2008260	21.99	normal rep15	normal breast tissue	no
+PCBD1	CAP.2008260	1.21	normal rep15	normal breast tissue	no
+ARIH1	CAP.2008260	5.39	normal rep15	normal breast tissue	no
+C16orf71	CAP.2008260	2.38	normal rep15	normal breast tissue	no
+CLMP	CAP.2008260	6.61	normal rep15	normal breast tissue	no
+SCN3B	CAP.2008260	9.98	normal rep15	normal breast tissue	no
+COX11	CAP.2008260	9.38	normal rep15	normal breast tissue	no
+ZNF202	CAP.2008260	6.67	normal rep15	normal breast tissue	no
+FAM227B	CAP.2008260	111.87	normal rep15	normal breast tissue	no
+STXBP4	CAP.2008260	5.79	normal rep15	normal breast tissue	no
+CYYR1	CAP.2008260	3.77	normal rep15	normal breast tissue	no
+CUL5	CAP.2008260	1.24	normal rep15	normal breast tissue	no
+MYRFL	CAP.2008260	2.38	normal rep15	normal breast tissue	no
+WBP1L	CAP.2008260	6.63	normal rep15	normal breast tissue	no
+C10orf32	CAP.2008260	76.93	normal rep15	normal breast tissue	no
+C2	CAP.2008260	35.06	normal rep15	normal breast tissue	no
+PLEKHF1	CAP.2008260	9.49	normal rep15	normal breast tissue	no
+TMEM100	CAP.2008260	2.99	normal rep15	normal breast tissue	no
+ANAPC16	CAP.2008260	19.18	normal rep15	normal breast tissue	no
+SMPD1	CAP.2008260	15.1	normal rep15	normal breast tissue	no
+APBB1	CAP.2008260	12.84	normal rep15	normal breast tissue	no
+SYNPO2L	CAP.2008260	8.83	normal rep15	normal breast tissue	no
+NUDT13	CAP.2008260	0.6	normal rep15	normal breast tissue	no
+C11orf65	CAP.2008260	3.24	normal rep15	normal breast tissue	no
+TRIM44	CAP.2008260	7.44	normal rep15	normal breast tissue	no
+CCDC182	CAP.2008260	10.23	normal rep15	normal breast tissue	no
