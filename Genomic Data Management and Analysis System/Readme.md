@@ -58,6 +58,21 @@ Here is a quick rundown of the files in the project:
 3. **Query the Database**
    - Use the queries in `code.sql` to explore and analyze the data.
 
+## Required Libraries
+
+Make sure you have the following Python libraries installed:
+
+- `pandas`: For data manipulation and cleaning
+- `matplotlib`: For creating visualizations
+- `seaborn`: For enhanced visualization styles
+- `numpy`: For numerical operations (may be required by `pandas` and `seaborn`)
+- `jupyter`: To run the Jupyter notebooks
+
+You can install these libraries using pip:
+
+```bash
+pip install pandas matplotlib seaborn numpy jupyter
+
 ## Future Plans
 
 - Add data from other species.
