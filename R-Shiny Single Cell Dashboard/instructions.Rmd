@@ -1,0 +1,50 @@
+---
+title: "scRNAseq Analysis App Instructions"
+output: html_document
+---
+
+## How to Use This App
+
+Welcome to the scRNAseq Analysis Dashboard. This app allows users to upload, analyze, and visualize single-cell RNA sequencing data using Seurat objects. Follow these steps to get started:
+
+### 1. Uploading Your Data
+
+- **Prepare Your Data**: Ensure that your data is saved as an `.rds` file format compatible with Seurat, such as a saved Seurat object.
+- **Upload File**:
+   - Navigate to the **scRNAseq Analyzer** tab in the sidebar.
+   - Click on the **Upload File** button and select your `.rds` file from your device.
+   - After the file is uploaded, the app will enable the **Run** button.
+
+### 2. Running the Analysis
+
+- Once the file has been uploaded:
+   - Click the **Run** button to initiate the analysis.
+   - The app will process the data, prepare UMAP visualizations, and create gene expression plots if applicable.
+   - This process may take some time, depending on the size of the data and the analysis steps required.
+   - Progress indicators will display the current status, and when the analysis is complete, new tabs with visualizations and options will appear.
+
+### 3. Exploring the Results
+
+After the analysis is complete, the following tabs may be available based on the data and selections:
+
+- **UMAP Tab**:
+   - This tab displays a UMAP (Uniform Manifold Approximation and Projection) visualization of the single-cell data.
+   - Use the **Metadata Column** dropdown menu to color the UMAP plot based on different cell attributes, such as gene expression levels or other metadata.
+
+- **Gene Expression Tab**:
+   - This tab provides a gene expression plot for specific genes within the dataset.
+   - Select a gene of interest from the **Genes** dropdown menu to view its expression pattern across the dataset.
+
+### 4. Downloading Plots
+
+- **UMAP Plot**: 
+   - You may download the UMAP visualization by clicking on the **Download UMAP** button within the UMAP tab.
+   
+- **Gene Expression Plot**:
+   - In the Gene Expression tab, use the **Download Feature Plot** button to download the current gene expression plot.
+
+### 5. Resetting the App
+
+- To clear the uploaded file, reset all inputs, and remove generated tabs:
+   - Press the **Reset** button located below the upload button.
+   - This action will remove all plots, reset input fields, and allow you to upload a new file for a fresh analysis.
